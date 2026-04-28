@@ -1,4 +1,5 @@
 Proficiency Testing Platform
+
 **Overview**
 The Proficiency Testing Platform is a web-based application developed to manage and streamline proficiency testing processes for an R&D institute. The system provides a centralized solution for handling user registrations, test enrollment, and result tracking, improving efficiency and reducing manual effort.
 The application is built using Core PHP, MySQL, and Bootstrap, focusing on simplicity, structured development, and practical business requirements.
